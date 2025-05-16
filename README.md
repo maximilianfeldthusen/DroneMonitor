@@ -2,7 +2,7 @@
 
 ### DroneMonitor
 
-This code provides a basic **drone operation monitoring system**. Let’s break it down in a way that feels intuitive and easy to understand.
+This code is a basic **drone operation monitoring system**.
 
 ### **Understanding the Code**
 At its core, this program **simulates drone operations** by tracking sensor data, flight status, battery levels, and errors. It runs through multiple iterations, updating drone data and logging it for analysis.
